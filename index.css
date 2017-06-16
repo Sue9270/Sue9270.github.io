@@ -1,0 +1,27 @@
+
+
+h2 { 
+   color: white;
+   border-style: ridge;
+   border-width: medium;
+   font-size: 50px;
+
+}
+
+body { 
+	background-image: url(http://www.wallpapermade.com/images/wallpapers/originals/beautiful-tree-shadow-on-starry-sky-wallpaper-4759.jpg); 
+	background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+	font-family: 'Jaldi', sans-serif;
+    font-size: 30px;
+    color: white;
+  } 
+
+#nav a { 
+	color: black;
+
+}
+
+
